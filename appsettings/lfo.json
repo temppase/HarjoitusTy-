@@ -1,0 +1,5 @@
+{
+    "1. mode": ["1. Sine","1. Square","1. Saw","1. Triangle"], 
+    "2. mode": ["2. Sine","2. Square","2. Saw","2. Triangle"], 
+    "3. mode": ["3. Sine","3. Square","3. Saw","3. Triangle"]
+}

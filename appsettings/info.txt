@@ -1,0 +1,4 @@
+Default preset staatinen, mutta mahdollisuus tallettaa myös siihen.
+Parameters voisi poimia talteen viimeiset säädöt ja oletuksena niihin voitaisiin ladata default(Load default, Save default).
+Jos ladataan presetti niin sen data ajettava parameters.json.(Tee tämä)
+AppState voisi näyttää sample raten, bufferin koon ja LFO:iden aallon muodon.
