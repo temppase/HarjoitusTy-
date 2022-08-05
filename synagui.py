@@ -18,11 +18,11 @@ syna.geometry(f"{w}x{h}+20+20")
 syna.config(bg='#114452')
 syna.minsize(715,680)
 # Polkuja joita käytetään tiedostoihin kirjoitukseen tai lukemiseen.
-param_path = 'C:/Users/tempp/Desktop/ttc2030/HarjoitusTyö/appsettings/parameters.json'
-lfo_path = 'C:/Users/tempp/Desktop/ttc2030/HarjoitusTyö/appsettings/lfo.json'
-pre_path = 'C:/Users/tempp/Desktop/ttc2030/HarjoitusTyö/appsettings/preferences.json'
-presets = 'C:/Users/tempp/Desktop/ttc2030/HarjoitusTyö/presets/'
-defaults_path = 'C:/Users/tempp/Desktop/ttc2030/HarjoitusTyö/appsettings/defaultpreset.json'
+param_path = 'appsettings/parameters.json'
+lfo_path = 'appsettings/lfo.json'
+pre_path = 'appsettings/preferences.json'
+presets = 'presets/'
+defaults_path = 'appsettings/defaultpreset.json'
 # Metodi jolla printataan käyttäjälle tietoa tilasta.
 def AppState():
     with open(pre_path, 'r') as p:
